@@ -1,0 +1,24 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .page-title,
+  .info-text {
+    text-align: center;
+  }
+  
+  .item-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .users-listing {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 0 25px 10px 0;
+    font-weight: bold;
+  }
+  
